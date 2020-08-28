@@ -6,3 +6,4 @@ Distribution of applications per category Apple App Store Indonesia From the res
 
 
 <img src ="images/distribution_price.png" width="500">
+This graph represents the distribution of each application's price in the population of Apple App Store Indonesia in IDR. It shows that the majority of applications in the Indonesian Apple App Store are free. This is an early indication that the majority of applications available in Indonesia have a free price.
